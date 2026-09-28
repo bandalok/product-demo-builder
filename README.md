@@ -1,3 +1,5 @@
+[![CI](https://github.com/bandalok/product-demo-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/bandalok/product-demo-builder/actions/workflows/ci.yml)
+
 AI demo builder that helps product managers create effective product demos.
 
 # demo-builder
